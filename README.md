@@ -2,7 +2,7 @@
 
 Login Screen(With Animation)
 
-<img src="https://user-images.githubusercontent.com/55477266/65747846-21931080-e120-11e9-9687-b349ac1ca422.png" width="270" height="400">
+<img src="https://user-images.githubusercontent.com/55477266/65748880-86e80100-e122-11e9-8e79-f5d11f8e8813.jpg" width="400" height="200">
 
 
 
