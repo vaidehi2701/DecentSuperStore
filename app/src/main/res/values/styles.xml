@@ -1,0 +1,47 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="colorControlNormal">@color/white</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="RatingBar" parent="Theme.AppCompat">
+
+        <item name="colorControlNormal">@color/colorPrimary</item>
+        <item name="colorControlActivated">@color/colorPrimaryDark</item>
+    </style>
+
+    <style name="CollaspingToolbar" parent="ThemeOverlay.AppCompat.Light">
+        <!-- set the size of action bar title . -->
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">@color/white</item>
+
+
+    </style>
+
+    <style name="AppSearchView" parent="Widget.AppCompat.SearchView" >
+        <!-- Text Size -->
+        <!--<item name="android:textSize">25sp</item>-->
+        <!-- Query Text Color -->
+        <item name="android:textColorPrimary">@color/Black</item>
+        <!-- Hint Color -->
+        <!--<item name="android:textColorHint">@color/Black</item>-->
+        <!-- Icon Color -->
+        <item name="android:tint">@color/Black</item>
+    </style>
+
+
+</resources>

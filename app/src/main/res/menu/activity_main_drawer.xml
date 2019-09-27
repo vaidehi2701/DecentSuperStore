@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_Home"
+            android:icon="@drawable/ic_store"
+            android:title="Shop With Us" />
+
+
+        <item
+            android:id="@+id/nav_history"
+            android:icon="@drawable/ic_list"
+            android:title="Order History" />
+
+        <item
+            android:id="@+id/nav_Profile"
+            android:icon="@drawable/ic_user_white"
+            android:title="User Profile" />
+
+        <item
+            android:id="@+id/nav_Contact"
+            android:icon="@drawable/ic_call_white"
+            android:title="Contact Us" />
+        <item
+            android:id="@+id/nav_rating"
+            android:icon="@drawable/ic_star"
+            android:title="Rate Us" />
+
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/ic_logout_white"
+            android:title="LogOut" />
+    </group>
+
+
+
+</menu>

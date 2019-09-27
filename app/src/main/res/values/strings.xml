@@ -1,0 +1,33 @@
+<resources>
+    <string name="Login">Sign In to experience \n Queless Shopping</string>
+    <string name="SignUp">Sign Up to experience \n Queless Shopping</string>
+    <string name="signup_hint">Don\'t have account?? <b>Sign Up</b></string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="Tab1"> OverView</string>
+    <string name="Tab2">Indgridents</string>
+    <string name="Tab3">Rating</string>
+
+    <string name="title_activity_abc">abc</string>
+
+    <string name="app_name">Decent SuperStore</string>
+    <string name="dialog_message">Rate Us</string>
+    <string name="dialog_title">Rate Us</string>
+    <string name="AboutUs">
+Onion is a vegetable which is almost like a staple in Indian food. This is also known to be one of the essential ingredients of raw salads. They come in different colours like white, red or yellow and are quite in demand in cold salads and hot soups. You can dice, slice or cut it in rings and put it in burgers and sandwiches. Onions emit a sharp flavour and fragrance once they are fried; it is due to the sulphur compound in the vegetable. </string>
+    <string name="Policy">Please note that fresh fruit and vegetables items will be billed based on exact weight during order processing (in case the actual weight exceeds the requested weight by more than 5%, you will be charged only for 5% excess weight).</string>
+    <string name="Adrees">E-17 abhiheck tenament, \nopp. wimming pool\nwaghodia road-390019</string>
+
+</resources>
